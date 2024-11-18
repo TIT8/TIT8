@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently working on my [master's thesis](https://thesis-master.netlify.app/)
+- My [Linkedin](https://thesis-master.netlify.app/)
+- My [first PCB](https://github.com/TIT8/STM32_workspace/blob/master/README.md)

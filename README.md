@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - I'm currently working on my [master's thesis](https://thesis-master.netlify.app/)
 - My [Linkedin](https://www.linkedin.com/in/lorenzo-p-38817116a/)
 - My [first PCB](https://github.com/TIT8/STM32_workspace/blob/master/README.md)
+- My [first working project](https://github.com/TIT8/BLE-sensor_PDM-microphone)
+- The most [pleasant contribution](https://github.com/valerionew/triennale-elettronica-polimi) thanks to [Valerio](https://github.com/valerionew)
